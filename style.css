@@ -1,0 +1,54 @@
+/* global styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* 1 rem = 10px */
+  font-size: 62.5%;
+}
+
+p {
+  font-size: 1.8rem;
+  margin-top: 3rem;
+  padding: 2rem;
+}
+
+.container {
+  border: 3px solid black;
+}
+
+.box {
+  border: 1px solid black;
+  color: white;
+  height: 10rem;
+  margin: 1rem;
+  width: 10rem;
+}
+
+.box1 {
+  background: blueviolet;
+}
+
+.box2 {
+  background: purple;
+}
+
+.box3 {
+  background: green;
+}
+
+.box4 {
+  background: peachpuff;
+}
+
+.box5 {
+  background: orange;
+}
+
+.box6 {
+  background: blue;
+}
